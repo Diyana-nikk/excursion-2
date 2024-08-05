@@ -3,9 +3,22 @@ background-color: #000000;
 text-align: center;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+/*HEADINGS */
+
 .header--main {
 font-weight: normal;
 font: 50px;
 color:#ffff;
+}
 
+.header--secondary {
+font-weight: 300;
+font: 42px;
+color:#ffff;
+}
+
+/*LINKS*/
+.link--cta{
+    font-size: 16px;
+    color: aquamarine;
 }
