@@ -17,6 +17,10 @@ font: 42px;
 color:#ffff;
 }
 
+.header--sub-header {
+    font: 21px;
+    color: grey;
+    }
 /*LINKS*/
 .link--cta{
     font-size: 16px;
